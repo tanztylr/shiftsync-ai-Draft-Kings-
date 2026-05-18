@@ -1,0 +1,12 @@
+shiftsync-ai/
+│
+├── pm-artifacts/               <-- This is your PM command center
+│   ├── CHARTER.md              <-- (Paste the Project Charter here)
+│   ├── RASCI_MATRIX.md         <-- (Paste the Stakeholder Map here)
+│   └── RAID_LOG.md             <-- (Paste the RAID Log here)
+│
+├── src/                        <-- (Where your Python/AI code will go in Weeks 2-3)
+│   └── main.py
+│
+├── .gitignore
+└── README.md                   <-- Your main portfolio landing page
